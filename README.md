@@ -20,5 +20,8 @@ This project implements a simple technical trading strategy using **Simple Movin
 
 🧾 [`chapter1-sma-crossover.ipynb`](chapter1-sma-crossover.ipynb)
 
----
+## 📈 Strategy Performance Chart
+
+![SMA vs Buy & Hold](sma-performance-chart.png)
+
 
