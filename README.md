@@ -38,6 +38,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📊 Sample Output
 
-![SMA Crossover Strategy Results](sma-backtest-plot.png)![sma-backtest-plot png](https://github.com/user-attachments/assets/a0b4d950-2028-4114-b1c6-b56c0922ffa9)
+![SMA Crossover Strategy Results]![sma-backtest-plot png](https://github.com/user-attachments/assets/a0b4d950-2028-4114-b1c6-b56c0922ffa9)
 
 
